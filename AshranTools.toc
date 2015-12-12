@@ -1,0 +1,8 @@
+## Title: AshranTools
+## Version: 0.1
+## Author: Ignifazius
+## Interface: 60200
+## SavedVariablesPerCharacter: AshranToolsDB
+## OptionalDeps: TomTom
+
+AshranTools.xml
